@@ -1,0 +1,7 @@
+{
+  "redirects": [{
+	    "source": "/(.*)",
+		"destination": "https://www.yi0086.cn:7070/$1",
+		"permanent": true
+	}]
+}
